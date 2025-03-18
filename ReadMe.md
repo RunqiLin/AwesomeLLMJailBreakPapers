@@ -50,6 +50,8 @@
 
 ## Empirical Study
 
+- [Understanding and Enhancing the Transferability of Jailbreaking Attacks](https://arxiv.org/pdf/2502.03052)
+<!--Understanding and Enhancing the Transferability of Jailbreaking Attacks. (empirical study)-->
 - ["Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models](https://arxiv.org/abs/2308.03825)
 <!--Conduct the first measurement study on jailbreak prompts in the wild, with 6,387 prompts collected from four platforms over six months. Leveraging natural language processing technologies and graph-based community detection methods, we discover unique characteristics of jailbreak prompts and their major attack strategies, such as prompt injection and privilege escalation.-->
 - [Tricking LLMs into Disobedience: Understanding, Analyzing, and Preventing Jailbreaks](https://arxiv.org/abs/2305.14965)
